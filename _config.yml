@@ -3,10 +3,3 @@ description:
 theme: jekyll-theme-minimal
 logo: ./images/1712689889015.jpeg
 
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
-markdown: kramdown
-mathjax: true
-
