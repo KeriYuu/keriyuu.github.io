@@ -1,17 +1,5 @@
-# Site settings
-title:        Kerun (Keri) Yu
-description:  
-logo:         ./images/1712689889015.jpeg
-email:        kerunyuu@gmail.com
+title: Kerun (Keri) Yu
+description: 
+theme: jekyll-theme-minimal
+logo: ./images/1712689889015.jpeg
 
-# Use Minimal Mistakes via GitHub Pages remote theme
-remote_theme: "mmistakes/minimal-mistakes@master"  
-plugins:
-  - jekyll-include-cache
-
-# Social links (Minimal Mistakes will auto-render these icons)
-social_links:
-  - platform: linkedin
-    url: https://linkedin.com/in/keri-yu
-  - platform: github
-    url: https://github.com/KeriYuu
