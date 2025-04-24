@@ -32,16 +32,16 @@ I wrote a simple program ([GitHub Repository](https://github.com/KeriYuu/fractal
 
 In the complex iteration formula:
 
-$$
+\[
 z_{n+1} = z_n^2 + c
-$$
+\]
 
-If the sequence doesn't diverge, the constant $c$ belongs to the Mandelbrot set.  
-When fixing $c$ and iterating $z_{n+1} = z_n^2 + c$, all initial $z_0$ points whose sequences remain bounded form the Julia set.  
+If the sequence doesn't diverge, the constant \(c\) belongs to the Mandelbrot set.  
+When fixing \(c\) and iterating \(z_{n+1} = z_n^2 + c\), all initial \(z_0\) points whose sequences remain bounded form the Julia set.  
 
-| ![Mandelbrot Set](./images/mandelbrot.png) | ![Julia Set](./images/julia.png) |
-|:------------------------------------------:|:--------------------------------:|
-| Mandelbrot Set                             | Julia Set                        |
+| ![Mandelbrot Set](./images/mandelbrot.png) | ![Julia Set](./images/julia.png)           |
+|:------------------------------------------:|:------------------------------------------:|
+| Mandelbrot Set                             | Julia Set                                  |
 
 Darker colors in the figure indicate more iterations required.  
 
