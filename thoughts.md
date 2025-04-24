@@ -4,9 +4,18 @@ title: Thoughts
 permalink: /thoughts/
 ---
 
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
 <script async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
 
 [Home](/) | [Thoughts](/thoughts/) | [Projects](/projects/) | [Publications](/publications/)
 
