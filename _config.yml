@@ -2,6 +2,13 @@ title: Kerun (Keri) Yu
 description: 
 theme: jekyll-theme-minimal
 logo: ./images/1712689889015.jpeg
-linkedin: https://www.linkedin.com/in/keri-yu/
-github: https://github.com/KeriYuu/
+
+# Social links
+social:
+  - label: LinkedIn
+    icon: fab fa-linkedin
+    url: https://www.linkedin.com/in/keri-yu/
+  - label: GitHub
+    icon: fab fa-github
+    url: https://github.com/KeriYuu/
 
