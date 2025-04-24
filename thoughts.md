@@ -4,6 +4,10 @@ title: Thoughts
 permalink: /thoughts/
 ---
 
+<script async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 [Home](/) | [Thoughts](/thoughts/) | [Projects](/projects/) | [Publications](/publications/)
 
 ## Conway's Game of Life
@@ -39,9 +43,10 @@ $$
 If the sequence doesn't diverge, the constant \(c\) belongs to the Mandelbrot set.  
 When fixing \(c\) and iterating \(z_{n+1} = z_n^2 + c\), all initial \(z_0\) points whose sequences remain bounded form the Julia set.  
 
-| ![Mandelbrot Set](./images/mandelbrot.png) | ![Julia Set](./images/julia.png)           |
-|:------------------------------------------:|:------------------------------------------:|
-| Mandelbrot Set                             | Julia Set                                  |
+| ![Mandelbrot](./images/mandelbrot.png){: .equal-width } | ![Julia](./images/julia.png){: .equal-width } |
+|:-------------------------------------------------------:|:------------------------------------------------:|
+| Mandelbrot Set                                         | Julia Set                                         |
+
 
 Darker colors in the figure indicate more iterations required.  
 
