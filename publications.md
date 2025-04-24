@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[Home](/) | [Projects](/projects/) | [Publications](/publications/) | [Misc](/misc/) 
+[Home](/) | [Thoughts](/thoughts/) | [Projects](/projects/) | [Publications](/publications/)
 
 **Conference Papers**  
 
