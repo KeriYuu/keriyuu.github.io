@@ -6,8 +6,6 @@ permalink: /publications/
 
 [Home](/) | [Projects](/projects/) | [Publications](/publications/) | [Misc](/misc/) 
 
-# Publications
-
 ## Conference Papers
 
 1. Wei Shi, Shuang Li, Kerun Yu, Jinglei Chen, Zujie Liang, Xinhui Wu, Yuxi Qian, Feng Wei, Bo Zheng, Jiaqing Liang, Jiangjie Chen, and Yanghua Xiao. 2024. SEGMENT+: Long Text Processing with Short-Context Language Models. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 16605–16617, Miami, Florida, USA. Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.emnlp-main.926

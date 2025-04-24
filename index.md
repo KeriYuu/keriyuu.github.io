@@ -11,4 +11,4 @@ Keri currently works as a data scientist at [Verisk Analytics](https://www.veris
 
 Her daily work involves handling data and machine learning models, but her interests span physics, life sciences, mathematics, computer science, philosophy, and cognitive science. 
 
-Beyond STEM, she has played [guzheng](https://en.wikipedia.org/wiki/Guzheng) and practiced [Chinese ink painting](https://en.wikipedia.org/wiki/Chinese_painting) since age 8, attaining the highest amateur certificates in both by 14.
+Beyond STEM, she has played [Guzheng](https://en.wikipedia.org/wiki/Guzheng) and practiced [Chinese ink painting](https://en.wikipedia.org/wiki/Chinese_painting) since age 8, attaining the highest amateur certificates in both by 14.
