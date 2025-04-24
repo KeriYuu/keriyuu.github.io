@@ -1,19 +1,12 @@
 title: Kerun (Keri) Yu
+description: 
+theme: jekyll-theme-minimal
 logo: ./images/1712689889015.jpeg
 email: kerunyuu@gmail.com
-description: 
-favicon: true
-color-scheme: auto
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+social_links:
+  - platform: linkedin
+    url: https://linkedin.com/in/keri-yu
+  - platform: github
+    url: https://github.com/KeriYuu
 
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/KeriYuu/
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/keri-yu/
