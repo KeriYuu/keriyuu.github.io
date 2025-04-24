@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Misc
-permalink: /misc/
+title: Projects
+permalink: /projects/
 ---
 
 [Home](/) | [Thoughts](/thoughts/) | [Projects](/projects/) | [Publications](/publications/)

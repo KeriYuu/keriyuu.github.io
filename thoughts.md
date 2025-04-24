@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: Thoughts
+permalink: /thoughts/
 ---
 
 [Home](/) | [Thoughts](/thoughts/) | [Projects](/projects/) | [Publications](/publications/)
@@ -30,12 +30,12 @@ Nassim Nicholas Taleb points out in [The Black Swan](https://en.wikipedia.org/wi
 
 I wrote a simple program ([GitHub Repository](https://github.com/KeriYuu/fractal-game)) to simulate such elegant self-similar structures:  
 
-In the complex iteration formula \( z_{n+1} = z_n^2 + c \), if the sequence doesn’t diverge, the constant \( c \) belongs to the Mandelbrot set.  
-When fixing \( c \) and iterating \( z_{n+1} = z_n^2 + c \), all initial \( z_0 \) points whose sequences remain bounded form the Julia set.  
+In the complex iteration formula $$ z_{n+1} = z_n^2 + c $$, if the sequence doesn't diverge, the constant $$ c $$ belongs to the Mandelbrot set.  
+When fixing $$ c $$ and iterating $$ z_{n+1} = z_n^2 + c $$, all initial $$ z_0 $$ points whose sequences remain bounded form the Julia set.  
 
 | <img src="./images/mandelbrot.png" width="300"/> | <img src="./images/julia.png" width="300"/> |
 | :--------------------------------------------: | :----------------------------------------: |
-|           **Mandelbrot Set**                   |              **Julia Set**                 |
+|           Mandelbrot Set                   |              Julia Set                |
 
 Darker colors in the figure indicate more iterations required.  
 
