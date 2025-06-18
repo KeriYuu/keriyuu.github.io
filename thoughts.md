@@ -17,7 +17,7 @@ window.MathJax = {
 </script>
 
 
-[Home](/) | [Thoughts](/thoughts/) | [Projects](/projects/) | [Publications](/publications/)
+[Home](/) | [Thoughts](/thoughts/) | [Publications](/publications/)
 
 ## Conway's Game of Life
 
