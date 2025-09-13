@@ -14,7 +14,7 @@ She has played the [Guzheng](https://en.wikipedia.org/wiki/Guzheng) and practice
 
 ---
 
-###### Recent readings
+#### Recent readings
 - The Futurological Congress (Stanisław Lem, 1971)
 - A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains (Max S. Bennett, 2023)
 
