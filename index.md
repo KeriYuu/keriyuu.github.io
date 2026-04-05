@@ -2,7 +2,7 @@
 layout: default
 title: Kerun (Keri) Yu
 ---
-[Home](/) | [Thoughts](/thoughts/) | [Publications](/publications/)
+[Home](/) | [Thoughts](/thoughts/) | [Gallery](/gallery/)
 
 # About Keri:
 
