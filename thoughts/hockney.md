@@ -17,7 +17,7 @@ In an era where photography became widespread, Hockney fell into deep self-doubt
 
 2. Through his research, he confirmed that classical realist masters since the Western Renaissance (such as Ingres) widely used optical lenses (like the camera obscura) to trace their images. This finding shattered his insurmountable reverence for classical realism, proving that painting "as accurately as a photograph" actually violates the natural laws of naked-eye observation.
 
-![Secret Knowledge](/images/thoughts/secret.gif)
+![Secret Knowledge](/images/thoughts/secret.jpg)
 
 On the title page of his book, [Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters](https://en.wikipedia.org/wiki/Hockney%E2%80%93Falco_thesis), he placed two images: on the left, a medieval painting from before humanity mastered perspective techniques, and on the right, a work by Van Gogh.
 
