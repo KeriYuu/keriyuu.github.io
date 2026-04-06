@@ -35,7 +35,7 @@ $$
 If the sequence doesn't diverge, the constant $c$ belongs to the Mandelbrot set.  
 When fixing $c$ and iterating $z_{n+1} = z_n^2 + c$, all initial $z_0$ points whose sequences remain bounded form the Julia set.  
 
-| ![Mandelbrot](/images/mandelbrot.png){: width="300px" } | ![Julia](/images/julia.png){: width="300px" } |
+| ![Mandelbrot](/images/thoughts/mandelbrot.png){: width="300px" } | ![Julia](/images/thoughts/julia.png){: width="300px" } |
 |:-------------------------------------------------------:|:------------------------------------------------:|
 | Mandelbrot Set                                         | Julia Set                                         |
 

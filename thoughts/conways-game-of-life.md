@@ -15,10 +15,10 @@ date: 2025-04-24
 I wrote a simple playground in Python ([GitHub Repository](https://github.com/KeriYuu/Conway-s-Game-of-Life)). You can generate random initial states and let them evolve. Eventually, some magical patterns will "survive", such as:
 
 - Rakes: Moving patterns that leave debris behind, which can be used to "lay tracks".
-![Rakes](/images/rake.gif)
+![Rakes](/images/thoughts/rake.gif)
 
 - Breeders: Patterns that produce streams of gliders, causing the number of live cells to grow quadratically or faster.
-![Breeders](/images/breeder.gif)
+![Breeders](/images/thoughts/breeder.gif)
 
 
 During my undergraduate studies in physics, I learned about the concept of "emergence" - how complex structures or behaviors can arise from simple microscopic rules. 

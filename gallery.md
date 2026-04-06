@@ -6,12 +6,10 @@ permalink: /gallery/
 
 [Home](/) | [Thoughts](/thoughts/) | [Gallery](/gallery/)
 
-## Gallery
-
 A collection of my paintings.
 
-<!-- Add paintings as images below. Example:
-![Painting title](/images/gallery/painting-name.jpg)
--->
+![2025](/images/gallery/060225.jpg)
 
-*Coming soon — paintings will be added here.*
+![2020](/images/gallery/071220.jpg)
+
+![2013](/images/gallery/2013.jpg)
