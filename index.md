@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Kerun (Keri) Yu
+title: Kerun Yu
 ---
 [Home](/) | [Thoughts](/thoughts/) | [Gallery](/gallery/)
 
-# About Keri:
+# About Kerun:
 
-Keri is a data scientist at [Verisk Analytics](https://www.verisk.com/) in New Jersey. She earned her M.S. in Data Science from [Columbia University](https://datascience.columbia.edu/) in Winter 2024 and her B.S. in Physics from [Fudan University](https://phys.fudan.edu.cn/) in Summer 2023.
+Kerun is a data scientist at [Verisk Analytics](https://www.verisk.com/) in New Jersey. She earned her M.S. in Data Science from [Columbia University](https://datascience.columbia.edu/) in Winter 2024 and her B.S. in Physics from [Fudan University](https://phys.fudan.edu.cn/) in Summer 2023.
 
 She works with data and machine learning models every day, but her interests span physics, life sciences, mathematics, computer science, philosophy, and art.
 
